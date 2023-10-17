@@ -1,0 +1,117 @@
+{
+	"delete": null,
+	"update": null,
+	"invitations": null,
+	"updated_at": "2023-10-17T01:26:58",
+	"categories": null,
+	"type": "episodic",
+	"user_permissions": null,
+	"templates": null,
+	"theme_settings": null,
+	"is_private": false,
+	"feeds": null,
+	"creator": null,
+	"donation": null,
+	"description": null,
+	"background_image_url": null,
+	"language": "en",
+	"promos": null,
+	"embed_player_types": [
+		"slim",
+		"playlist",
+		"standard"
+	],
+	"midroll_marker_alerts_enabled": false,
+	"playlist": null,
+	"subscription": null,
+	"time_zone_abbreviation": "EDT",
+	"features": {
+		"href": "https://api.simplecast.com/feature_sets/67593d0b-e625-4ffb-a9bc-9db5e152b2b2"
+	},
+	"bitrates": [
+		128
+	],
+	"bitrate": 128,
+	"site": {
+		"href": "https://api.simplecast.com/sites/c993a8a3-28f4-40be-be83-62402a681c72",
+		"url": "https://josh-nyrh-web-audio-test.simplecast.com",
+		"subdomain": "josh-nyrh-web-audio-test",
+		"site_enabled": true,
+		"id": "c993a8a3-28f4-40be-be83-62402a681c72",
+		"cname_url": null
+	},
+	"is_delinquent": null,
+	"default_marker_max_duration_milliseconds_post": null,
+	"rss_limit": 600,
+	"authors": {
+		"href": "https://api.simplecast.com/podcasts/601e911c-a988-4d08-9e6f-f6532eaf8a0a/authors",
+		"create": null,
+		"collection": [
+			{
+				"href": "https://api.simplecast.com/authors/4c2864ac-ded4-4e5e-84cb-9ab69288ed7f",
+				"remove": null,
+				"name": "wnycdigital@gmail.com",
+				"id": "4c2864ac-ded4-4e5e-84cb-9ab69288ed7f"
+			}
+		]
+	},
+	"copyright": null,
+	"subtitle": null,
+	"feed_url": "https://feeds.simplecast.com/zs2dJ4pC",
+	"published_at": null,
+	"default_marker_ad_limit_post": 1,
+	"recast_color": null,
+	"dashboard_link": "https://dashboard.simplecast.com/accounts/941ee701-3ef8-4f14-82c7-a259222e75ff/shows/601e911c-a988-4d08-9e6f-f6532eaf8a0a",
+	"image_path": null,
+	"default_marker_ad_limit_post_enabled": true,
+	"external_feed_url": null,
+	"owner": null,
+	"seasons": {
+		"href": "https://api.simplecast.com/podcasts/601e911c-a988-4d08-9e6f-f6532eaf8a0a/seasons"
+	},
+	"default_marker_ad_limit_pre": 1,
+	"created_at": "2023-10-17T01:26:57",
+	"background_image_path": null,
+	"episode_footer": null,
+	"exit_survey": null,
+	"enable_markdown": false,
+	"sponsors": {
+		"href": "https://api.simplecast.com/podcasts/601e911c-a988-4d08-9e6f-f6532eaf8a0a/sponsors"
+	},
+	"href": "https://api.simplecast.com/podcasts/601e911c-a988-4d08-9e6f-f6532eaf8a0a",
+	"default_marker_ad_limit_mid": 1,
+	"default_marker_ad_limit_pre_enabled": true,
+	"allow_mp3_downloads": false,
+	"time_zone": "America/New_York",
+	"account": null,
+	"feed_redirect_url": null,
+	"default_marker_max_duration_milliseconds_mid": null,
+	"keywords": null,
+	"id": "601e911c-a988-4d08-9e6f-f6532eaf8a0a",
+	"image_url": null,
+	"subscription_item": null,
+	"imported_at": null,
+	"display_owner_email": true,
+	"analytics": null,
+	"rss_noindex": false,
+	"time_zone_offset": -14400,
+	"enable_feed": true,
+	"default_marker_max_duration_milliseconds_pre": null,
+	"episodes": {
+		"href": "https://api.simplecast.com/podcasts/601e911c-a988-4d08-9e6f-f6532eaf8a0a/episodes?preview=true",
+		"count": 0,
+		"audio": {
+			"href": "https://api.simplecast.com/podcasts/601e911c-a988-4d08-9e6f-f6532eaf8a0a/episodes/audio"
+		}
+	},
+	"enclosure_url": null,
+	"distribution_channels": {
+		"href": "https://api.simplecast.com/podcasts/601e911c-a988-4d08-9e6f-f6532eaf8a0a/distribution_channels"
+	},
+	"is_explicit": false,
+	"status": "draft",
+	"subscription_data": null,
+	"ad_creatives": null,
+	"title": "Josh NYRH Web Audio Test",
+	"has_billing": true
+}
